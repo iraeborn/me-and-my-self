@@ -10,10 +10,10 @@ export default function Home() {
       </Head>
       <Container>
         <h1>
-          Bem vindo ao<a href="https://nextjs.org">Next.js!</a>
+          Bem vindo!
         </h1>
         <p>
-          Get started by editing <code>pages/index.js</code>
+          Meu nome é <code>Iraê Bornholdt</code>
         </p>
         <Container>
           <Row className="justify-content-md-between">
