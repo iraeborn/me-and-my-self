@@ -1,10 +1,11 @@
-# Next.js with react-bootstrap example
+# Projeto pessoal
+Desenvolvido com Next.js e react-bootstrap
 
-This example shows how to use Next.js along with [react-bootstrap](https://react-bootstrap.github.io/).
+Hospedado pela vercel.app
 
 ## Preview
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+Visite [me-and-my-self](https://me-and-my-self-n0e86hvhd-iraeborn.vercel.app/):
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-react-bootstrap)
 
