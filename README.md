@@ -1,5 +1,5 @@
 # Projeto pessoal
-Desenvolvido com Next.js e react-bootstrap
+Desenvolvido com Next.js, Node, Bootstrap, React e MongoDb
 
 Hospedado pela vercel.app
 
