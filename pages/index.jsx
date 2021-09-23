@@ -19,7 +19,7 @@ export default function Home() {
           <Row className="justify-content-md-between">
             <Card className="sml-card">
               <Card.Body>
-                <Card.Title>Documentation</Card.Title>
+                <Card.Title>Sobre</Card.Title>
                 <Card.Text>
                   Find in-depth information about Next.js features and API.
                 </Card.Text>
