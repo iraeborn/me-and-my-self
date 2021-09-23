@@ -7,7 +7,7 @@ Hospedado pela vercel.app
 
 Visite [me-and-my-self](https://me-and-my-self-n0e86hvhd-iraeborn.vercel.app/):
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-react-bootstrap)
+[![me-and-my-self](https://me-and-my-self-n0e86hvhd-iraeborn.vercel.app/)](https://me-and-my-self-n0e86hvhd-iraeborn.vercel.app/)
 
 ## Deploy your own
 
