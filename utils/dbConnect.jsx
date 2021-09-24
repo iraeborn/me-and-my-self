@@ -9,8 +9,10 @@ async function dbConnect(){
     if (connection.isConnected) {
         return;
     }
+    const uri = "mongodb+srv://iraeborn:lohr*9526@cluster0.zngfn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+    //process.env.MONGO_URI
 
-    const db = await Mongoose.connect(process.env.MONGO_URI, {
+    const db = await Mongoose.connect(uri, {
         useNewUrlParser: true,
         useUnifiedTopology: true,
     });
