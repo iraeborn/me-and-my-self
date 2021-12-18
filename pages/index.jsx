@@ -42,7 +42,7 @@ export default function Home() {
                   <li>Adobe Photoshop</li>
                   <li>Adobe Illustrator</li>
                   <li>Direção de Fotografia</li>
-                  <li>Programação web</li>
+                  <li>React Native</li>
                 </ul>
                 </Card.Text>
                 <Button variant="primary" href="https://nextjs.org/learn">
