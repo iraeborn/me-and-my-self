@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import { Container, Row, Card, Button } from 'react-bootstrap'
+import { Container, Row, Card, Button, Carousel } from 'react-bootstrap'
 
 export default function Home() {
   return (
