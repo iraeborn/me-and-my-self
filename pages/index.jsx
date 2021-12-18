@@ -4,7 +4,7 @@ import { Container, Row, Card, Button, Carousel } from 'react-bootstrap'
 export default function Home() {
   return (
     <>
-    <Container className="container">
+    <Container className="container p-0">
       <Carousel>
         <Carousel.Item>
           <img
