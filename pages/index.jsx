@@ -22,7 +22,7 @@ export default function Home() {
                 <Card.Title>Sobre</Card.Title>
                 <Card.Text>
                 <ul>
-                  <li>36 anos</li>
+                  <li>37 anos</li>
                   <li>Natural de Ilhabela, São Paulo</li>
                   <li>Atualmente em Sorriso, MT</li>
                 </ul>
