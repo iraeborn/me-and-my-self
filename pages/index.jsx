@@ -3,12 +3,8 @@ import { Container, Row, Card, Button, Carousel } from 'react-bootstrap'
 
 export default function Home() {
   return (
-    <Container className="md-container">
-      <Head>
-        <title>Iraê Bornholdt</title>
-        <link rel="icon" href="/favicon-32x32.png" />
-      </Head>
-      <Container>
+    <>
+    <Container className="container">
       <Carousel>
         <Carousel.Item>
           <img
@@ -43,6 +39,13 @@ export default function Home() {
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
+    </Container>
+    <Container className="md-container">
+      <Head>
+        <title>Iraê Bornholdt</title>
+        <link rel="icon" href="/favicon-32x32.png" />
+      </Head>
+      <Container>
         <Container>
           <Row className="justify-content-md-between">
             <Card className="sml-card">
@@ -127,5 +130,6 @@ export default function Home() {
         </a>
       </footer>
     </Container>
+    </>
   )
 }
